@@ -25,30 +25,30 @@ ________________________________________________________________________________
 
 WORK EXPERIENCE	:
 
-Lead Software Engineer
-Capgemini – Hyderabad, India – [11th Nov 2021 to 23rd Aug 2024] 
-o	Project Planning & Estimation: Skilled in defining module-wise estimates, timelines, and sprint planning to ensure timely and quality-driven deliveries.
-o	Led end-to-end project lifecycle including UI/UX design, development, testing, deployment, and post-launch maintenance.
-o	Participated in Agile ceremonies (sprint planning, standups, retrospectives), contributing to a 20% improvement in team velocity and overall project delivery timelines.
-o	Implemented rigorous testing strategies (unit/integration/UI testing) to ensure bug-free, production-ready releases, reducing runtime errors by 50%.
-o	Built and managed CI/CD pipelines using Azure DevOps and GitHub Actions, streamlining deployments and enabling faster, automated delivery.
-o	Collaborated in code reviews and pair programming with senior developers, accelerating learning and adoption of React.js best practices, leading to a 50% faster ramp-up time for new dev feature.
-o	Web Design & Development: Proficient in designing and developing end-to-end solutions using modern frontend and backend technologies in full-stack environments.
-o	API Integration & State Management: Experienced in building robust RESTful APIs, integrating third-party services, and managing application state using tools like Redux or Context API.
-o	Testing & Deployment: Adept in using testing frameworks such as Jest and Jasmine to ensure code reliability, and deploying applications via GitHub or Azure DevOps CI/CD pipelines.
-o	Team Collaboration & Leadership: A strong team player and proactive communicator, working effectively with cross-functional teams, stakeholders, and clients. Known for mentoring peers and driving team success.
-
-Software Engineer 
-Hyperpack Pvt,Ltd. – Hyderabad, India – [10th Sep 2020 to 8th Nov 2021].
-    o	A Software Engineer is an developer responsible for writing, testing, and maintaining code under the guidance of senior developers or lead.
-
-Associate Software Engineer
-Silverprints Pvt.Ltd.– Hyderabad, India – [11th Jul 2016 to 1st Sep 2020]. 
-    o	An Associate Software Engineer delivered high-performance, responsive web applications compatible with a wide range of devices and browsers, improving user experience and accessibility etc.
-
-Artwork & Graphic Designer
-Mini Software Technologies – Hyd., India – [27th Dec 2011 to 8th July 2016]. 
-    o	An Artwork Graphic Designer is responsible for creating, modifying, and finalizing print and digital-ready designs, especially for product packaging, marketing materials, branding elements, and more.
+    Lead Software Engineer
+    Capgemini – Hyderabad, India – [11th Nov 2021 to 23rd Aug 2024] 
+    o	Project Planning & Estimation: Skilled in defining module-wise estimates, timelines, and sprint planning to ensure timely and quality-driven deliveries.
+    o	Led end-to-end project lifecycle including UI/UX design, development, testing, deployment, and post-launch maintenance.
+    o	Participated in Agile ceremonies (sprint planning, standups, retrospectives), contributing to a 20% improvement in team velocity and overall project delivery timelines.
+    o	Implemented rigorous testing strategies (unit/integration/UI testing) to ensure bug-free, production-ready releases, reducing runtime errors by 50%.
+    o	Built and managed CI/CD pipelines using Azure DevOps and GitHub Actions, streamlining deployments and enabling faster, automated delivery.
+    o	Collaborated in code reviews and pair programming with senior developers, accelerating learning and adoption of React.js best practices, leading to a 50% faster ramp-up time for new dev feature.
+    o	Web Design & Development: Proficient in designing and developing end-to-end solutions using modern frontend and backend technologies in full-stack environments.
+    o	API Integration & State Management: Experienced in building robust RESTful APIs, integrating third-party services, and managing application state using tools like Redux or Context API.
+    o	Testing & Deployment: Adept in using testing frameworks such as Jest and Jasmine to ensure code reliability, and deploying applications via GitHub or Azure DevOps CI/CD pipelines.
+    o	Team Collaboration & Leadership: A strong team player and proactive communicator, working effectively with cross-functional teams, stakeholders, and clients. Known for mentoring peers and driving team success.
+    
+    Software Engineer 
+    Hyperpack Pvt,Ltd. – Hyderabad, India – [10th Sep 2020 to 8th Nov 2021].
+        o	A Software Engineer is an developer responsible for writing, testing, and maintaining code under the guidance of senior developers or lead.
+    
+    Associate Software Engineer
+    Silverprints Pvt.Ltd.– Hyderabad, India – [11th Jul 2016 to 1st Sep 2020]. 
+        o	An Associate Software Engineer delivered high-performance, responsive web applications compatible with a wide range of devices and browsers, improving user experience and accessibility etc.
+    
+    Artwork & Graphic Designer
+    Mini Software Technologies – Hyd., India – [27th Dec 2011 to 8th July 2016]. 
+        o	An Artwork Graphic Designer is responsible for creating, modifying, and finalizing print and digital-ready designs, especially for product packaging, marketing materials, branding elements, and more.
 _____________________________________________________________________________________________________________________________________________________________________________
 
 EDUCATIONAL DETAILS	:
