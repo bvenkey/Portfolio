@@ -24,9 +24,8 @@ TECHNICAL SKILL STATCK	:::::::::
 __________________________________________________________________________________________________________________________________________________________________________
 
 WORK EXPERIENCE	:::::::::
-
-    Lead Software Engineer
-    Capgemini – Hyderabad, India – [11th Nov 2021 to 23rd Aug 2024] 
+Lead Software Engineer
+Capgemini – Hyderabad, India – [11th Nov 2021 to 23rd Aug 2024]
     o	Project Planning & Estimation: Skilled in defining module-wise estimates, timelines, and sprint planning to ensure timely and quality-driven deliveries.
     o	Led end-to-end project lifecycle including UI/UX design, development, testing, deployment, and post-launch maintenance.
     o	Participated in Agile ceremonies (sprint planning, standups, retrospectives), contributing to a 20% improvement in team velocity and overall project delivery timelines.
