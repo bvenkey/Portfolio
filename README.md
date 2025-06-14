@@ -1,10 +1,10 @@
 # Portfolio
 Senior Software Engineer | Full Stack Developer | Open to Flexible
 
-Full Name: Venkateswara Rao Bellamkonda
-Email: bellamkondamca@gmail.com
-Mobile: (+91)-9014748444
-LinkedIn: linkedin.com/in/venkateswara-rao-bellamkonda
+    Full Name: Venkateswara Rao Bellamkonda
+    Email: bellamkondamca@gmail.com
+    Mobile: (+91)-9014748444
+    LinkedIn: linkedin.com/in/venkateswara-rao-bellamkonda
 ______________________________________________________________________________________________________________________________________________________________________________
 
 PROFESSIONAL SUMMARY::::::::
