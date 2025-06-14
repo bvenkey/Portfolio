@@ -40,15 +40,15 @@ WORK EXPERIENCE	:::::::::
 Software Engineer 
 
 Hyperpack Pvt,Ltd. – Hyderabad, India – [10th Sep 2020 to 8th Nov 2021].
-o	A Software Engineer is an developer responsible for writing, testing, and maintaining code under the guidance of senior developers or lead.
+    o	A Software Engineer is an developer responsible for writing, testing, and maintaining code under the guidance of senior developers or lead.
 Associate Software Engineer
 
 Silverprints Pvt.Ltd.– Hyderabad, India – [11th Jul 2016 to 1st Sep 2020]. 
-o	An Associate Software Engineer delivered high-performance, responsive web applications compatible with a wide range of devices and browsers, improving user experience and accessibility etc.
+    o	An Associate Software Engineer delivered high-performance, responsive web applications compatible with a wide range of devices and browsers, improving user experience and accessibility etc.
 
 Artwork & Graphic Designer
 Mini Software Technologies – Hyd., India – [27th Dec 2011 to 8th July 2016]. 
-o	An Artwork Graphic Designer is responsible for creating, modifying, and finalizing print and digital-ready designs, especially for product packaging, marketing materials, branding elements, and more.
+    o	An Artwork Graphic Designer is responsible for creating, modifying, and finalizing print and digital-ready designs, especially for product packaging, marketing materials, branding elements, and more.
 _____________________________________________________________________________________________________________________________________________________________________________
 
 EDUCATIONAL DETAILS	:::::::
