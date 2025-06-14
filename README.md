@@ -5,12 +5,12 @@ Senior Software Engineer | Full Stack Developer | Open to Flexible
     Email: bellamkondamca@gmail.com
     Mobile: (+91)-9014748444
     LinkedIn: linkedin.com/in/venkateswara-rao-bellamkonda
-______________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________
 
 PROFESSIONAL SUMMARY::::::::
 
-    I am a dedicated Software Engineer with over 8+ years of experience in full-stack development, specializing in delivering scalable, high-performance web applications. I have deep expertise across the Software Development Life Cycle (SDLC) and Agile methodologies, with a strong focus on planning, execution, and collaboration.
-______________________________________________________________________________________________________________________________________________________________________________
+I am a dedicated Software Engineer with over 8+ years of experience in full-stack development, specializing in delivering scalable, high-performance web applications. I have deep expertise across the Software Development Life Cycle (SDLC) and Agile methodologies, with a strong focus on planning, execution, and collaboration.
+_____________________________________________________________________________________________________________________________________________________________________________
 
 TECHNICAL SKILL STATCK	:::::::::
 
