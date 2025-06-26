@@ -16,11 +16,11 @@ ________________________________________________________________________________
 TECHNICAL SKILL STATCK :
 
     Front End Development   :    ReactJS, TypeScript, JavaScript,
-    Back End Development    :    NodeJS, ExpressJS, 
+    Back End Development    :    NodeJS, ExpressJS, Microservices, 
     Web Development         :    Bootstrap, HTML, CSS, 
-    Styling                 :    Metirial UI, System Design(Figma), 
+    Styling                 :    Material UI, System Design(Figma), 
     State Management        :    Redux / Redux ToolKit, 
-    Testing Tools           :    Jest, Cypress(E2E), 
+    Testing Tools           :    Jest, Cypress(E2E), React Testing Library, 
     Database                :    MangoDB, mySQL, SQL, 
     DevOps                  :    Azure, GitHub Actions, SonarQube, 
     Deplyment               :    CI/CD Pipelines for automated build and deployment, 
